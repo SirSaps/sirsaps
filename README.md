@@ -1,6 +1,5 @@
-## 👨‍💻 Whoami
+<h2 align="center"> 👨‍💻 Whoami </h2>
 
-<h2 align="center"> </h2>
 <p align="center">
   <samp>
     I have been passionate about programming since I was 12 years old.
@@ -13,8 +12,6 @@
   </samp>
   <br> <br>
 </p>
-
-<hr>
 
 <h2 align="center"> 🔭 Tools of Trade</h2>
 <p align="center">
@@ -51,8 +48,6 @@
   <img src="https://img.shields.io/badge/Swagger-black?style=for-the-badge&logo=swagger" alt="PHP" />&nbsp;&nbsp;&nbsp;
 </p>
 
-<hr>
-
 <h2 align="center">📫 Reach me on</h2>
 <p align="center">
   <a target="_blank"href="www.linkedin.com/in/vera- fernando-72261131/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -60,4 +55,3 @@
   <a href="mailto:fernando.vera@zenithtek.io"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<hr>
